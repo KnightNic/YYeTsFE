@@ -24,7 +24,7 @@
     "clsx": "^1.2.1",
     "dayjs": "^1.11.5",
     "formik": "^2.2.9",
-    "http-proxy-middleware": "^2.0.0",
+    "http-proxy-middleware": "^2.0.6",
     "js-cookie": "^3.0.1",
     "material-ui-popup-state": "^4.0.2",
     "md5": "^2.3.0",
